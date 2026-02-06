@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Erick from São Paulo , Brasil<br><br>- 🔭 <br>- 📚  I’m studying software engineer in FIAP<br>-</p>
+<p align="left">I'm Erick from São Paulo , Brasil<br><br> <br>- 📚  I’m studying software engineer in FIAP<br></p>
 
 ###
 
