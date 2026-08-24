@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ErickAnciaes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=ErickAnciaes&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
